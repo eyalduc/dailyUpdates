@@ -1,0 +1,9 @@
+
+
+https://stackoverflow.com/questions/44333202/angular-4-application-on-github-pages
+
+This seems to work change the index.html:
+<base href="">
+
+
+
