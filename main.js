@@ -81,10 +81,12 @@ var AppComponent = /** @class */ (function () {
             { url: 'https://www.seaschool.co.il/camera1.php', title: 'seaschool', scrollTop: 500 },
             { url: 'https://magicseaweed.com/Dromi-Herzlyia-Marina-Surf-Report/4744/', title: 'MSW-Dromi', scrollTop: 200 },
             { url: 'https://www.windguru.cz/2354', title: 'windguru-Herzliya', scrollTop: 180 },
+            { url: 'https://www.surfline.com/surf-report/marina/584204204e65fad6a7709aad', title: 'Camera-Marina', scrollTop: 200 },
+            { url: 'https://intersurf.co.il/content/33-SurfLine-Cameras', title: 'surfline', scrollTop: 300 },
+            { url: 'https://www.kan.org.il/fifaworldcup', title: 'KAN-Live', scrollTop: 400 },
+            { url: 'https://www.foxsports.com/soccer/fifa-world-cup/schedule', title: 'Mondial-Schedule-fox', scrollTop: 400 },
             { url: 'http://www.windalert.co.il/', title: 'Windalert', scrollTop: 600 },
             { url: 'http://wind.co.il/%D7%9E%D7%96%D7%92-%D7%90%D7%95%D7%99%D7%A8/%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%97%D7%99/', title: 'wind.co.il', scrollTop: 400 },
-            { url: 'https://www.surfline.com/surf-report/marina/584204204e65fad6a7709aad', title: 'Camera-Marina', scrollTop: 200 },
-            { url: 'http://intersurf.co.il/content/33-SurfLine-Cameras', title: 'surfline', scrollTop: 300 },
         ];
     }
     AppComponent = __decorate([
